@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="Online Store", layout="wide")
-st.title("🛍️ Simple Online Store (Real Product Images)")
+st.title("🛍️ Justan Online Store ")
 
 # --- 商品清單：真實商品照片 ---
 if "products" not in st.session_state:
